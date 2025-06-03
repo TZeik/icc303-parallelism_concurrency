@@ -1,5 +1,9 @@
 # Primer Parcial - ICC-303 - Programación Paralela y Concurrente
 
+### Datos del Estudiante
+**Nombre:** Randy A. Germosén
+**ID:** 1013-4707
+
 1. **Fecha de Entrega:** A completar en el tiempo designado durante el examen.
 2. **Lenguaje de Programación:** Java 17 o superior
 3. **Formato de Entrega:** Hacer un **fork** de este repositorio, trabajar en su propio fork y subir el código con las
