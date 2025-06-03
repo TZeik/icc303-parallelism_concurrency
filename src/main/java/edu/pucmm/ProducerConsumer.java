@@ -6,6 +6,8 @@ import java.util.concurrent.BlockingQueue;
 /**
  * @author me@fredpena.dev
  * @created 02/06/2025  - 20:46
+ * @student me@randygermosen.com
+ * @pucmm_id 1013-4707
  */
 public class ProducerConsumer {
     private static final int QUEUE_CAPACITY = 10;
