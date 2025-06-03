@@ -27,7 +27,7 @@ public class ParallelMatrixSearch {
         long endTime = System.nanoTime();
         if (sequentialResult)
             System.out.println("Resultado de Busqueda: " + (sequentialResult) + " Tiempo búsqueda secuencial: "
-                    + ((endTime - startTime) / 1_000_000) + "ms");
+                    + ((endTime - startTime)) + "ms");
         else
             System.out.println("Busqueda secuencial realizada y no encontrada");
 
